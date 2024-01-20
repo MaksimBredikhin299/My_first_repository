@@ -13,12 +13,10 @@ Linux,MacOS
 ```
 ls
 ```
-
 Удаление файла в Windows:
 ```
 del <filename>
 ```
-
 В linux,MacOS
 ```
 rm <filename>
